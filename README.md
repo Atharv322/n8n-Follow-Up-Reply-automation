@@ -1,4 +1,4 @@
-# Automated Job Application System (n8n)
+# Automated FollowUp Reply System (n8n)
 
 This project is a production-ready automation built using n8n.
 
