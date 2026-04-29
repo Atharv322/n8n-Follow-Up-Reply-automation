@@ -1,4 +1,4 @@
-# Automated FollowUp Reply System (n8n)
+# Automated Follow-Up Reply System (n8n)
 
 This project is a production-ready automation built using n8n.
 
